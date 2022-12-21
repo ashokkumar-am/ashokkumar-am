@@ -10,7 +10,7 @@
 ## I'm Ashok Kumar.     An Automation Architect from Chennai, India.
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZA4jFtSTz8tfaBaOAkMauw?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/@ASHOKKUMARAM?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@ASHOKKUMARAM?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/@ASHOKKUMARAM?sub_confirmation=1)
 [![Twitter Followers](https://img.shields.io/twitter/follow/ashokkumaram?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=ashokkumaram)
 [![GitHub Followers](https://img.shields.io/github/followers/ashokkumar-am?label=GitHub%20Followers!&style=social)](https://github.com/ashokkumar-am)
 
