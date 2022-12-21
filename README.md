@@ -7,7 +7,7 @@
 
 # Hey There! 👋
 
-## I'm Ashok Kumar.     A Technical Lead from Chennai, India.
+## I'm Ashok Kumar.     An Automation Architect from Chennai, India.
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZA4jFtSTz8tfaBaOAkMauw?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCZA4jFtSTz8tfaBaOAkMauw?sub_confirmation=1)
